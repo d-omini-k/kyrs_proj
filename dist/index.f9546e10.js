@@ -1,0 +1,1 @@
+new Swiper(".MySwiper",{spaceBetween:30,navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"},pagination:{clickable:!0,el:".swiper-pagination"}});
