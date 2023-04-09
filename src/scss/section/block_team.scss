@@ -1,0 +1,67 @@
+.block_team{
+  display: flex;
+  margin: 0 auto;
+
+  gap: 30px;
+  padding-bottom: 79px;
+
+
+}
+
+.person{
+  max-width: 25%;
+
+  .people{
+    width: 100%;
+    display: block;
+    padding-bottom: 30px;
+  }
+
+  h5{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #2D3033;
+    padding-bottom: 7px;
+  }
+
+  span{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-transform: uppercase;
+    color: #FF4343;
+
+  }
+
+  p{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #6C7279;
+    padding:18px 0 37px;
+  }
+
+  .icon{
+    display: inline-block;
+    max-width: 39px;
+    max-height: 39px;
+  }
+
+
+  .social{
+    display: block;
+
+  }
+
+  svg{
+    max-width: 39px;
+  }
+
+}
